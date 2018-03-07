@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Олег Ялама](https://up.htmlacademy.ru/htmlcss/20/user/669905).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Гурьев](https://htmlacademy.ru/profile/danakishi).
 
 ---
 
